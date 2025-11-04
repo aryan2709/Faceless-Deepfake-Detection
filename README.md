@@ -10,7 +10,7 @@ pinned: false
 ---
 
 
-#  - Enhanced Deepfake Detection
+#  Deepfake Detection
 
 This project integrates multiple deepfake detection models with a modern web interface.
 
