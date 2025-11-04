@@ -1,5 +1,5 @@
 ---
-title: Unmask
+title: Deepfake Detection
 emoji: 🕵️‍♂️
 colorFrom: purple
 colorTo: indigo
@@ -10,7 +10,7 @@ pinned: false
 ---
 
 
-# UnMask - Enhanced Deepfake Detection
+#  - Enhanced Deepfake Detection
 
 This project integrates multiple deepfake detection models with a modern web interface.
 
