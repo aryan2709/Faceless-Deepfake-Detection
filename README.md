@@ -1,5 +1,5 @@
 ---
-title: Deepfake Detection
+title:Faceless - Deepfake Detection
 emoji: 🕵️‍♂️
 colorFrom: purple
 colorTo: indigo
@@ -10,7 +10,7 @@ pinned: false
 ---
 
 
-#  Deepfake Detection
+# Faceless - Deepfake Detection
 
 This project integrates multiple deepfake detection models with a modern web interface.
 
