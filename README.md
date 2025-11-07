@@ -1,5 +1,5 @@
 ---
-title:Faceless - Deepfake Detection
+title: Faceless - Deepfake Detection
 emoji: 🕵️‍♂️
 colorFrom: purple
 colorTo: indigo
